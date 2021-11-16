@@ -18,6 +18,12 @@ You must change the wallet address in `env` variables in deploy.yaml.  Additiona
 2.  Edit the deploy.yaml file with your wallet address.
 3.  Deploy and manage your deployment with [Akashlytics](https://akashlytics.com/deploy)
 
+# Choosing a provider
+
+Akash is a marketplace of compute.  Providers set their own prices for compute resources.  We recommend you try different providers and check your logs after deployment to determine the hashrate.
+
+![AkashlyticsBids](https://user-images.githubusercontent.com/19512127/142057801-5091473e-a9c3-4994-9e13-f1b1b1658491.png)
+
 # How to speed up mining?
 
 ## Change the tuning option
@@ -30,7 +36,7 @@ You can always check your logs in Akashlytics.
 
 ## Increase the deployment size on Akash
 
-You can deploy more CPU or more replicas to mine faster.  
+You can deploy more CPU or more replicas to mine faster.
 
 
 ```
@@ -39,7 +45,7 @@ cpu:
 
 ```
 
-Or increase the replica count from `count: 1` to `count: 2` or greater.
+Or increase the replica count from `count: 1` to `count: 2`.
 
 ```
 deployment:
