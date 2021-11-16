@@ -1,13 +1,12 @@
 ## How to mine Raptoreum (RTM) on Akash Network
 
-### deploy.yaml
+# Why use Akash?
 
 Welcome [Raptoreum](https://raptoreum.com/) miners! [Akash](https://akash.network) is a decentralized marketplace of compute with thousands of CPU's ready for small and large deployments.  Akash is a part of the [Cosmos](https://cosmos.network/) ecosystem of blockchains.
 
 # Windows and Mac Users :
 
 ### Requirements (Chrome/Brave)
-[Keplr Wallet](https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap?hl=en)
 
 1. [Follow our Quick Start Guide](https://docs.akash.network/guides/deploy)
 2. Edit the deploy.yaml file with your wallet address.
