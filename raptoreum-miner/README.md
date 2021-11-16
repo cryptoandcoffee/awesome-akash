@@ -2,7 +2,7 @@
 
 ### deploy.yaml
 
-Welcome Raptoreum miners! Akash offers a global marketplace of compute with thousands of CPU's ready for small and large deployments.
+Welcome [Raptoreum](https://raptoreum.com/) miners! [Akash](https://akash.network) offers a global marketplace of compute with thousands of CPU's ready for small and large deployments.
 
 You must change the wallet address in `env` variables in deploy.yaml.  Additional settings like TUNE and DONATION are available as well.
 
