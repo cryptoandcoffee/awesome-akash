@@ -2,21 +2,26 @@
 
 ### deploy.yaml
 
-Welcome [Raptoreum](https://raptoreum.com/) miners! [Akash](https://akash.network) offers a global marketplace of compute with thousands of CPU's ready for small and large deployments.
-
-You must change the wallet address in `env` variables in deploy.yaml.  Additional settings like TUNE and DONATION are available as well.
+Welcome [Raptoreum](https://raptoreum.com/) miners! [Akash](https://akash.network) is a decentralized marketplace of compute with thousands of CPU's ready for small and large deployments.  Akash is a part of the [Cosmos](https://cosmos.network/) ecosystem of blockchains.
 
 # Windows and Mac Users :
 
+### Requirements (Chrome/Brave)
+[Keplr Wallet](https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap?hl=en)
+
 1. [Follow our Quick Start Guide](https://docs.akash.network/guides/deploy)
 2. Edit the deploy.yaml file with your wallet address.
-3. Deploy and manage your deployment with [Akashlytics](https://akashlytics.com/deploy)
+3. Deploy and manage your deployments with [Akashlytics](https://akashlytics.com/deploy)
 
-# Linux Users
+# Linux Users :
 
 1.  Follow our [Bootstrap Start Guide](https://github.com/ovrclk/akash-wallet-handler)
 2.  Edit the deploy.yaml file with your wallet address.
-3.  Deploy and manage your deployment with [Akashlytics](https://akashlytics.com/deploy)
+3.  Deploy and manage your deployments with [Akashlytics](https://akashlytics.com/deploy)
+
+Akash uses its blockchain to manage your container deployment and accounting.  To deploy on Akash you will need to fund your wallet with at least 10 AKT (~$20)  Each time you create a deployment, 5 AKT will be used for escrow and to fund the deployment.  If the deployment is cancelled the balance of the escrow is returned to you.  You can spin up deployments without worrying about any long term contracts and you can cancel anytime. 
+
+Have more questions? Find our team in [Discord](https://discord.com/invite/DxftX67) and [Telegram](https://t.me/AkashNW)
 
 # Choosing a provider
 
