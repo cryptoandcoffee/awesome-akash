@@ -34,8 +34,8 @@ To fund your deployment you will need AKT in your account.  The fastest way to d
 1. Install [Keplr](https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap?hl=en)
 2. Send 10 ATOM to your new Cosmos wallet address (this address will start with `cosmos`)
 3. Goto https://app.osmosis.zone/assets > next to `Cosmos Hub - ATOM` click on `Deposit`
-4. Now go back to https://app.osmosiszone.com/ and select `ATOM > AKT` to complete the swap
-5. Return to the https://app.osmosiszone.com/assets page to withdraw your AKT to your Keplr wallet
+4. Now go back to https://app.osmosis.zone/ and select `ATOM > AKT` to complete the swap
+5. Return to the https://app.osmosis.zone/assets page to withdraw your AKT to your Keplr wallet
 
 Have more questions? Find our team in [Discord](https://discord.com/invite/DxftX67) and [Telegram](https://t.me/AkashNW)
 
