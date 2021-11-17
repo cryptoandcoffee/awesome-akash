@@ -4,13 +4,13 @@
 
 Welcome [Raptoreum](https://raptoreum.com/) miners! [Akash](https://akash.network) is a decentralized marketplace of compute with thousands of CPU's ready for small and large deployments.  Raptoreum mining can be deployed on the network successfully using this guide.  Akash is a part of the [Cosmos](https://cosmos.network/) ecosystem of blockchains.
 
-# Windows and Mac Users :
+# Windows and Mac Users 
 
 1. [Follow our Quick Start Guide](https://docs.akash.network/guides/deploy)
 2. Edit the deploy.yaml file with your wallet address.
 3. Deploy and manage your deployments with [Akashlytics](https://akashlytics.com/deploy)
 
-# Linux Users :
+# Linux Users 
 
 1.  Follow our [Bootstrap Start Guide](https://github.com/ovrclk/akash-wallet-handler)
 2.  Edit the deploy.yaml file with your wallet address.
