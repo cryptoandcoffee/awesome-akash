@@ -16,13 +16,13 @@ Welcome [Raptoreum](https://raptoreum.com/) miners! [Akash](https://akash.networ
 2.  Edit the deploy.yaml file with your wallet address.
 3.  Deploy and manage your deployments with [Akashlytics](https://akashlytics.com/deploy)
 
+# How does this work?
 Akash uses its blockchain to manage your container deployment and accounting.  To deploy on Akash you will need to fund your wallet with at least 10 AKT (~$20)  Each time you create a deployment, 5 AKT will be used for escrow and to fund the deployment.  If the deployment is cancelled the balance of the escrow is returned to you.  You can spin up deployments without worrying about any long term contracts and you can cancel anytime. 
 
 # Default wallet
-
 Akash uses [Keplr](https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap?hl=en) as the desktop wallet.  Advanced users can follow the [CLI instructions](https://docs.akash.network/guides/cli)
 
-# Quickest way to get more AKT?
+# Quickest way to get more AKT
 To fund your deployment you will need AKT in your account.  The fastest way to do that is as follows:
 
 ## Buy on an Exchange
