@@ -14,6 +14,10 @@ Also, follow [@akashnet\_](https://twitter.com/akashnet_) to stay in the loop wi
 - [Lunie Wallet for Cosmos SDK](lunie-lite)
 - [Cosmos SDK Node](https://github.com/ovrclk/akash-on-akash)
 
+### Social
+
+- [Discourse](discourse)
+
 ### Peer-to-peer File Sharing
 
 - [qBittorrent](qbittorrent)
@@ -41,6 +45,7 @@ Also, follow [@akashnet\_](https://twitter.com/akashnet_) to stay in the loop wi
 
 - [Jenkins](jenkins)
 - [Bitbucket](bitbucket)
+- [Azure Devops Agent](azure-devops-agent)
 
 ### Data Visualization
 
@@ -76,10 +81,12 @@ Awesome DeFi apps you can deploy on Akash
 - [Synthetix.Exchange](synthetix.exchange)
 - [Ren Protocol](renprotocol)
 - [yfii](yfii)
+- [Sifchain DEX](sifchain-ui)
 
 ### Blockchain
 
 - [Substrate Node](substrate-node)
+- [Vidulum](vidulum)
 
 ### Blogging
 
@@ -91,6 +98,9 @@ Awesome DeFi apps you can deploy on Akash
 - [Drupal](drupal)
 - [Wiki.js](wikijs)
 
+### Business
+
+ - [Odoo](odoo)
 
 ### Games
 
@@ -124,7 +134,11 @@ Awesome DeFi apps you can deploy on Akash
 
 ### Mining
 
-- [Monero](monero)
+- [xmrig](monero)
+- [Chia](chia)
+- [MoneroOcean / auto-switching CPU miner with XMR payout](moneroocean)
+- [Raptoreum](raptoreum-miner)
+- [pkt.cash](https://github.com/ovrclk/pkt-miner)
 
 ### Project Management
 
@@ -145,6 +159,7 @@ Awesome DeFi apps you can deploy on Akash
 - [dart-hello](dart)
 - [Matomo](matomo)
 - [Zammad](zammad)
+- [CodiMD](CodiMD)
 - [KnowYourDeFi](knowyourdefi)
 - [Code-Server](code-server)
 
