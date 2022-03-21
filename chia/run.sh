@@ -5,8 +5,10 @@ if [[ "$REMOTE_LOCATION" != "local" ]]; then
 echo "Upload test before unpacking..."
 mkdir -p /root/.ssh/
 touch /root/.ssh/known_hosts
-echo "Found $REMOTE_HOST with user $REMOTE_USER on port $REMOTE_PORT to upload to"
+ssh-keygen -q -b 4096 -t rsa -N "" -f ~/.ssh/id_rsa
 ssh-keyscan -p "${REMOTE_PORT}" "${REMOTE_HOST}" >> ~/.ssh/known_hosts
+echo "Found $REMOTE_HOST with user $REMOTE_USER on port $REMOTE_PORT to upload to"
+sshpass -p "$REMOTE_PASS" ssh-copy-id  -p "$REMOTE_PORT"-o StrictHostKeyChecking=no "$REMOTE_USER"@"$REMOTE_HOST"
 ssh -o BatchMode=yes -o ConnectTimeout=5 -p "$REMOTE_PORT" "$REMOTE_USER"@"$REMOTE_HOST" echo Upload Destination Connection OK 2>&1 || echo "Did not pass go! Check your SSH settings" && exit 1
 else
 mkdir /plots
